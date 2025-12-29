@@ -1,0 +1,5 @@
+com\giorgiburduladze\base\BaseTest.class
+com\giorgiburduladze\pages\AlertPage.class
+com\giorgiburduladze\tests\AlertTests.class
+com\giorgiburduladze\pages\PracticeFormPage.class
+com\giorgiburduladze\tests\FormTests.class
